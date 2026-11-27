@@ -5,3 +5,5 @@ My name is Triet Pham. I am majoring in AI engineer at UTS, Sydney. I am interes
 
 [![PlantDisease](https://github-stats-extended.vercel.app/api/pin/?username=katopham&repo=PlantDisease&theme=radical)](https://github.com/katopham/PlantDisease)
 
+[![GarbageDetection](https://github-stats-extended.vercel.app/api/pin/?username=katopham&repo=GarbageDetection&theme=dracula)](https://github.com/katopham/GarbageDetection)
+
